@@ -1,0 +1,38 @@
+h1{ color: blueviolet;
+font-size: 70px;/* font type */
+font-family: Arial, sans-serif;/* font family */
+font-weight: bold;/* font weight */
+text-align: center;/* text align */
+}
+
+p{text-align:left;
+font-family: Georgia, 'Times New Roman', Times, serif;/* font family */
+font-size: 30px;/* font size */
+}
+
+body{ background-color: lightblue;/* background color */
+font-family: Arial, sans-serif;/* font family */
+font-size: 16px;/* font size */
+image-rendering: auto;
+}
+
+h2{ text-align: left;/* text align */
+color: blueviolet;/* color */
+font-size: 18px;/* font size */
+font-family: Arial, sans-serif;/* font family */
+font-weight: bold;/* font weight */
+}
+
+div{ padding: 20px;/* space inside */
+margin: 15px;/* space outside */
+border: 1px solid black;/* border */
+background-color: lightgrey;/* background color */
+}
+
+button{ background-color: blueviolet;/* background color */
+color: white;/* color */
+padding: 10px;/* space inside */
+margin: 10px;/* space outside */
+border-radius: 5px; /* border radius */
+cursor: pointer;
+}
